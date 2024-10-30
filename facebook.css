@@ -1,0 +1,41 @@
+body{
+    background-color: whitesmoke;
+   
+    padding: 50px;
+    
+}
+img{
+    width: 250px;
+}
+.page
+{
+    background-color: white;
+width: 400px;
+border-radius: 10px;
+ font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.name
+{
+    border-radius: 10px;
+    
+
+}
+input
+{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    
+}
+button
+{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    background-color:  blue;
+    -webkit-text-fill-color: white;
+}
+p{
+   -webkit-text-fill-color: blue;
+}
